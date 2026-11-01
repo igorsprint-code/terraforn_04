@@ -77,7 +77,7 @@ module "vpc_dev" {
 }
 ```
 
-3. Модуль возвращает в root module  информацию о yandex_vpc_subnet. с помощью [output](demonstration1/vms/vpc/output.tf)
+3. Модуль возвращает в root module  информацию о yandex_vpc_subnet. с помощью [outputs](demonstration1/vms/vpc/outputs.tf)
 
 ![console](/screenshots/3.png)
  
